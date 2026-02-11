@@ -1,0 +1,34 @@
+# Data Collection
+ccxt==4.2.85
+yfinance==0.2.36
+pandas==2.2.0
+numpy==1.26.3
+
+# Technical Indicators
+ta==0.11.0
+# ta-lib==0.4.28
+# Requires separate installation of TA-Lib C library, install separately with: pip install TA-Lib
+
+# Machine Learning
+scikit-learn==1.4.0
+xgboost==2.0.3
+# pytorch==2.1.2
+# torchvision==0.16.2
+# torchaudio==2.1.2
+# PyTorch installation varies by platform, install separately with: pip install torch
+
+# LLM Integration
+openai==1.10.0
+langchain>=0.1.10,<0.2.0
+crewai>=0.28.8
+transformers==4.36.2
+
+# API / Web
+fastapi==0.108.0
+uvicorn==0.25.0
+python-telegram-bot==20.7
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+schedule==1.2.0

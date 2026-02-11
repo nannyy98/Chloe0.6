@@ -1,0 +1,9 @@
+# Development dependencies for Chloe AI
+pytest==7.4.3
+pytest-asyncio==0.23.2
+black==23.12.1
+flake8==6.1.0
+mypy==1.8.0
+jupyter==1.0.0
+matplotlib==3.8.2
+seaborn==0.13.1
